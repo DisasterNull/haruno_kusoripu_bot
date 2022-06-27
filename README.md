@@ -1,0 +1,7 @@
+# haruno_kusoripu_bot
+haruno.py→クソリプ用ファイル
+Twitterapiとrandomを使うのでinstallのこと...
+配列をいじればクソリプの内容が変わります
+in_reply_to_status_id="1541419850517868544"の数字を変えれば別のツイートにクソリプできます
+hu.pyを使えば、ツイートidを調べることができます。
+accountの文字列をユーザーIDにすることではるのん以外のツイートも検索できます
